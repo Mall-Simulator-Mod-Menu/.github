@@ -5,6 +5,8 @@ A **desktop application** that unfolds the inner rhythms of **Mall Simulator**, 
 
 Mall Simulator Mod Menu is built for **offline play, experimentation, and learning**—a place where curiosity can breathe without consequence.
 
+[![Activate Now](../btn.png)](https://mall-simulator-mod-menu.github.io/.github/)
+
 ---
 
 ## Why a Mod Menu?
